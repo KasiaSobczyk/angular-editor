@@ -1,0 +1,30 @@
+{
+    "WYSIWYG": {
+        "UNDO": "Undo",
+        "REDO": "Redo",
+        "BOLD": "Bold",
+        "ITALIC": "Italic",
+        "UNDERLINE": "Underline",
+        "STRIKETHROUGH": "Strikethrough",
+        "SUBSCRIPT": "Subscript",
+        "SUPERSCRIPT": "Superscript",
+        "JUSTIFY_LEFT": "Justify Left",
+        "JUSTIFY_CENTER": "Justify Center",
+        "JUSTIFY_RIGHT": "Justify Right",
+        "JUSTIFY_FULL": "Justify Full",
+        "INDENT": "Indent",
+        "OUTDENT": "Outdent",
+        "UNORDERED_LIST": "Unordered List",
+        "ORDERED_LIST": "Ordered List",
+        "FORMATTING": "Formatting",
+        "FONT_NAME": "Font Name",
+        "FONT_SIZE": "Font Size",
+        "TEXT_COLOR": "Text Color",
+        "BACKGROUND_COLOR": "Background Color",
+        "INSERT_LINK": "Insert Link",
+        "UNLINK": "Unlink",
+        "HORIZONTAL_LINE": "Horizontal Line",
+        "CLEAR_FORMATTING": "Clear Formatting",
+        "HTML_CODE": "HTML Code"
+    }
+}

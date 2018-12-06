@@ -1,0 +1,30 @@
+{
+    "WYSIWYG": {
+        "UNDO": "Cofnij",
+        "REDO": "Ponów",
+        "BOLD": "Pogrubienie",
+        "ITALIC": "Kursywa",
+        "UNDERLINE": "Podkreślenie",
+        "STRIKETHROUGH": "Przekreślenie",
+        "SUBSCRIPT": "Indeks dolny",
+        "SUPERSCRIPT": "Indeks górny",
+        "JUSTIFY_LEFT": "Wyrównanie do lewej",
+        "JUSTIFY_CENTER": "Wyrównanie do środka",
+        "JUSTIFY_RIGHT": "Wyrównanie do prawej",
+        "JUSTIFY_FULL": "Do lewej i prawej",
+        "INDENT": "Zwiększ wcięcie",
+        "OUTDENT": "Zmniejsz wcięcie",
+        "UNORDERED_LIST": "Lista punktowana",
+        "ORDERED_LIST": "Lista numerowana",
+        "FORMATTING": "Formatowanie",
+        "FONT_NAME": "Styl czcionki",
+        "FONT_SIZE": "Rozmiar czcionki",
+        "TEXT_COLOR": "Kolor tekstu",
+        "BACKGROUND_COLOR": "Kolor zaznaczenia",
+        "INSERT_LINK": "Wstaw link",
+        "UNLINK": "Usuń hiperłącze",
+        "HORIZONTAL_LINE": "Linia pozioma",
+        "CLEAR_FORMATTING": "Wyszyść formatowanie",
+        "HTML_CODE": "Kod HTML"
+    }
+}
